@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1002804885639",
+    "firebase_url": "https://fir-b17e3-default-rtdb.firebaseio.com",
+    "project_id": "fir-b17e3",
+    "storage_bucket": "fir-b17e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002804885639:android:4b02a62355130e44e96022",
+        "android_client_info": {
+          "package_name": "com.example.twitxclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwGwNhyuiAw_H2thgV5gr5ZQqH_iU3S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002804885639:android:19fb71d8df1c17a8e96022",
+        "android_client_info": {
+          "package_name": "com.example.wordy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwGwNhyuiAw_H2thgV5gr5ZQqH_iU3S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

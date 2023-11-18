@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WordyActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147" />
+
+    <GridLayout
+        android:id="@+id/light_grid"
+        android:layout_width="342dp"
+        android:layout_height="399dp"
+        android:columnCount="5"
+        android:rowCount="6"
+        android:useDefaultMargins="true"
+        app:layout_constraintBottom_toTopOf="@+id/submitID"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.608"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp"/>
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp"/>
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+        <EditText
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="25dp" />
+
+    </GridLayout>
+
+    <Button
+        android:id="@+id/addButtonID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="132dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="132dp"
+        android:layout_marginBottom="28dp"
+        android:text="addWordButton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/submitID" />
+
+    <Button
+        android:id="@+id/ClearID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="76dp"
+        android:text="Clear"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/submitID"
+        app:layout_constraintHorizontal_bias="0.591"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/light_grid" />
+
+    <Button
+        android:id="@+id/submitID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="36dp"
+        android:text="Submit"
+        app:layout_constraintBottom_toTopOf="@+id/addButtonID"
+        app:layout_constraintEnd_toEndOf="@+id/addButtonID"
+        app:layout_constraintStart_toStartOf="@+id/addButtonID"
+        app:layout_constraintTop_toBottomOf="@+id/light_grid" />
+
+    <Button
+        android:id="@+id/restartID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="76dp"
+        android:text="Restart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.415"
+        app:layout_constraintStart_toEndOf="@+id/submitID"
+        app:layout_constraintTop_toBottomOf="@+id/light_grid" />
+
+    <Button
+        android:id="@+id/titlePageID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MainPage"
+        app:layout_constraintBottom_toTopOf="@+id/addButtonID"
+        app:layout_constraintEnd_toStartOf="@+id/restartID"
+        app:layout_constraintStart_toEndOf="@+id/ClearID"
+        app:layout_constraintTop_toBottomOf="@+id/submitID" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
